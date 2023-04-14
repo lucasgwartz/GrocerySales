@@ -116,7 +116,7 @@ The last question I wanted to answer was Customer Type. Specifically, how many a
 
 <img width="700" alt="Screenshot 2023-04-13 at 3 00 12 PM" src="https://user-images.githubusercontent.com/110561299/231857481-c306c053-f132-4d3a-a08f-ef5aa84fe24a.png">
 
-There wasn't a huge gap in this information.
+There wasn't a huge gap.
 
 **Conclusion**
 
