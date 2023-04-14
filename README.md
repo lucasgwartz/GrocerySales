@@ -8,7 +8,7 @@ What I really liked about this dataset, is there is a lot of data, and therefore
 
 The Supermarket dataset is for a Supermarket Chain, with 3 locations: 
 
--A (in Yangon)
+- A (in Yangon)
 
 - B (in Mandalay) 
 
